@@ -1,7 +1,31 @@
 {
-  "name": "64 Gallon TOTA — Test Metadata",
-  "description": "Temporary metadata for testing the Robness x Peeps ERC-1155 smart contract.",
-  "image": "https://pub-83fa639de89c456db93b7de5f8fd74dd.r2.dev/203.gif",
-  "animation_url": "https://raw.githubusercontent.com/lneneo/VRMs/main/64-GALLON-TOTER-3D.vrm",
-  "attributes": []
+  "name": "64 GALLON TOTER — 3D 2025 Edition",
+  "description": "Official 64 GALLON TOTER 3D by ROBNESS x PEEPS. 2025. Includes VRM avatar, GLB 3D model.",
+
+  "image": "https://ipfs.io/ipfs/bafybeieeepkwn7ztqbiyijdq232qew25beu5aiph6rrficbcfh3yytcj7a",
+
+  "animation_url": "https://ipfs.io/ipfs/bafybeigirs3uqji3cqzdn35fuuvec2knlk4e3wkfro23deujlrcba3cv5a",
+
+  "external_url": "https://robness.io/toter",
+
+  "formats": {
+    "glb": "https://ipfs.io/ipfs/bafybeigirs3uqji3cqzdn35fuuvec2knlk4e3wkfro23deujlrcba3cv5a",
+    "vrm": "https://ipfs.io/ipfs/bafybeidsikpibhpbbgeogksznbaf5jdxirqf3rvnyvsw2nx64ry4yaic54",
+    "html_viewer": "https://ipfs.io/ipfs/bafkreib425fhpf3ya3ps6fhs43d73qp24dw3tkt466lvhse4ujq7qxjafu"
+  },
+
+  "attributes": [
+    { "trait_type": "Artist", "value": "ROBNESS x PEPPS" },
+    { "trait_type": "Format", "value": "VRM + GLB" },
+    { "trait_type": "Edition", "value": "Open Edition" }
+  ],
+
+  "vrm_metadata": {
+    "version": 1,
+    "avatar_ready": true,
+    "vrm_file": "https://ipfs.io/ipfs/bafybeidsikpibhpbbgeogksznbaf5jdxirqf3rvnyvsw2nx64ry4yaic54",
+    "glb_file": "https://ipfs.io/ipfs/bafybeigirs3uqji3cqzdn35fuuvec2knlk4e3wkfro23deujlrcba3cv5a",
+    "html_viewer": "https://ipfs.io/ipfs/bafkreib425fhpf3ya3ps6fhs43d73qp24dw3tkt466lvhse4ujq7qxjafu",
+    "created_by": "PEEPS"
+  }
 }
